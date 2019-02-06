@@ -7,6 +7,6 @@ implemented as required in the specification.
 The homework has the following files index.html, resume.html and bio.html.
 It also has a CSS folder which has the styles.css file.
 
-2. Got some help from the TAs
+2. I got some help from the TAs in completing this homework
 
 3. I Spent approximately 4 hours on this homework
