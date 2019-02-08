@@ -29,9 +29,17 @@ hr {
   width: 99%;
 }
 
+.bolden{
+  font-weight: bold;
+}
+
+.italicize{
+  font-style: italic;
+}
+
 .pad{
   text-align: right;
-  margin-right: auto;
+  margin-right: 10%;
   }
 
 .pic{
