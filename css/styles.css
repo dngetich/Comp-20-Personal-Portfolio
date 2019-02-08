@@ -1,6 +1,8 @@
 body {
   background-color: #EAF6F6;
   width: auto;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 h1 {
   color: #75cac3;
@@ -34,8 +36,8 @@ hr {
   }
 
 .pic{
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 .biography{
